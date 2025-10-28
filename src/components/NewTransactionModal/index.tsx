@@ -6,6 +6,7 @@ import {
   TransactionType,
   TransactionTypeButton,
 } from "./styles";
+
 import { ArrowCircleDown, ArrowCircleUp, X } from "phosphor-react";
 
 export function NewTransactionModal() {
