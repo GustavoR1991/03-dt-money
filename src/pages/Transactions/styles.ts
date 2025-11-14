@@ -38,3 +38,5 @@ export const PriceHighLight = styled.span<PriceHighLightProps>`
       ? props.theme["green-300"]
       : props.theme["red-300"]};
 `;
+
+export const Detod = styled.div``;

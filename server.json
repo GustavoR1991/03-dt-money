@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2025-11-03T21:15:10.381Z"
+    },
+    {
+      "id": "c983",
+      "description": "desenvolvimento de app",
+      "price": 12222,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2025-11-13T23:20:21.321Z"
+    },
+    {
+      "id": "c793",
+      "description": "comi iogurte",
+      "price": 1222,
+      "category": "alimentacao",
+      "type": "outcome",
+      "createdAt": "2025-11-14T00:55:56.279Z"
     }
   ]
 }

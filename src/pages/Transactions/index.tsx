@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { Header } from "../../components/Header";
 import { Summary } from "../../components/Summary";
 import { SearchForm } from "./SearchForm";
-import { PriceHighLight, TransactionsContainer, TransactionsTable } from "./styles";
+import { Detod, PriceHighLight, TransactionsContainer, TransactionsTable } from "./styles";
 import { TransactionsContext } from "../../contexts/transactionsContext";
 import { dateFormatter, priceFormatter } from "../../utils/formatter";
 
@@ -36,6 +36,9 @@ export function Transactions() {
                 </tr>
               )
             })}
+            <Detod>
+
+            </Detod>
           </tbody>
         </TransactionsTable>
       </TransactionsContainer>
