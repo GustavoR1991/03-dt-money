@@ -39,4 +39,4 @@ export const PriceHighLight = styled.span<PriceHighLightProps>`
       : props.theme["red-300"]};
 `;
 
-export const Detod = styled.div``;
+
